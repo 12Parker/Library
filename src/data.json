@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Cameron's Log",
+        "link": "https://www.cameronparker.ca",
+        "image": "https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif"
+    },
+    {
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/12camparker21/",
+        "image": "https://media.giphy.com/media/26FPq8u5gvYO9GzoA/giphy.gif"
+    },
+    {
+        "title": "Github",
+        "link": "https://github.com/12Parker",
+        "image": "https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif"
+    },
+    {
+        "title": "Gatsby",
+        "link": "https://www.gatsbyjs.org/",
+        "image": "https://media.giphy.com/media/26tnaNlcZHVwfsQTe/giphy.gif"
+    },
+    {
+        "title": "Pragmatic Programmer",
+        "link": "https://pragprog.com/",
+        "image": "https://media.giphy.com/media/re2y7q22KYvdu/giphy.gif"
+    }
+]
