@@ -23,8 +23,9 @@ Just update the data.json file with a title, link, and image:
     }
 ]
 ```
-
-
+<div align = "center">
+<img alt="Screenshot" src="./src/images/Screenshot_01.png" width= "50%" />
+</div>
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
