@@ -1,16 +1,29 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Gatsby Library App
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+Simple app for holding all of your favourite links. Use it to store links to your favourite sites or use it as a wishlist.
+Just update the data.json file with a title, link, and image: 
+```
+[
+    {
+        "title": "Cameron's Log",
+        "link": "https://www.cameronparker.ca",
+        "image": "https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif"
+    },
+    {
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/12camparker21/",
+        "image": "https://media.giphy.com/media/26FPq8u5gvYO9GzoA/giphy.gif"
+    }
+]
+```
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
 
@@ -95,5 +108,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
-
-<!-- AUTO-GENERATED-CONTENT:END -->
