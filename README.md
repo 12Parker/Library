@@ -7,8 +7,12 @@
   Gatsby Library App
 </h1>
 
-Simple app for holding all of your favourite links. Use it to store links to your favourite sites or use it as a wishlist.
-Just update the data.json file with a title, link, and image: 
+<a href="https://brave-brattain-f67e5d.netlify.com/">Currently hosted on Netlify</a>
+
+<p>Simple app for holding all of your favourite links. Use it to store links to your favourite sites or use it as a wishlist.</p>
+
+<p>Just update the data.json file with a title, link, and image:</p> 
+
 ```
 [
     {
